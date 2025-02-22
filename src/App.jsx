@@ -8,7 +8,8 @@ function App() {
 
   return (
     <>
-   <Enquiry/>
+      <Enquiry />
+      <div>Hello</div>
     </>
   )
 }
